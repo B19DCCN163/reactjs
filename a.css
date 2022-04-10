@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.tren {
+    width: 454px;
+    height: 320px;
+}
+.tren img {
+    width: 454px;
+}
+.tdtren {
+    text-decoration: none;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: 19px;
+    color: black;
+
+}
+.tren p {
+    color: grey;
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.duoi{
+    width: 450px;
+    padding-top: 210px;
+}
+.con{
+    width: 140px;
+    height: 145px;
+    float: left;
+    margin-right: 9px;
+}
+.con img {
+    width: 140px;
+    height: 120px;
+    
+}
+.con .tdcon{
+    text-decoration: none;
+    color: red;
+}
+
+
